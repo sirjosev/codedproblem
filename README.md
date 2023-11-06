@@ -34,3 +34,4 @@ Hasilnya adalah teks dengan setiap awal kata diganti dengan huruf kapital.
 * Untuk mengganti semua kata dengan huruf kecil, kita dapat menggunakan rumus berikut:
 
 ```=LOWER(A1)
+
